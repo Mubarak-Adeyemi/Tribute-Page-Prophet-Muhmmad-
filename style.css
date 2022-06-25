@@ -137,3 +137,13 @@ p {
 dd::before {
     
 }
+
+@media (max-width: 768px){
+    section{ 
+        width:90%;
+        margin: auto;
+    }
+    h2 {
+        font-size: 18px;
+    }
+}
